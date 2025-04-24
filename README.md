@@ -25,8 +25,16 @@ Make sure you have the following installed:
 - C++ Compiler (like `g++`)
 - SQLite3 development libraries
 
+
+## Screenshots
+
+![Inventory CLI Screenshot](screenshot.png)
+
 ### Clone the Repository
 
 ```bash
 git clone https://github.com/yourusername/inventory-stock-management.git
 cd inventory-stock-management
+
+
+
