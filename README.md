@@ -29,6 +29,7 @@ Make sure you have the following installed:
 ## Screenshots
 
 ![Inventory CLI Screenshot](screenshot.png)
+![Inventory CLI Screenshot](screenshot2.png)
 
 ### Clone the Repository
 
